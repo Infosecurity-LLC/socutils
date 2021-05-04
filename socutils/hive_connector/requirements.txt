@@ -1,0 +1,4 @@
+sasl >= 0.2.1
+thrift >= 0.11.0
+thrift_sasl >= 0.3.0
+pyhive[hive] >= 0.6.1

@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pymongo = "*"
+requests = "*"
+pyyaml = "*"
+jinja2 = "*"
+raven = "*"
+bson = "*"
+Pipfile = "*"
+confluent-kafka = "*"
+
+[dev-packages]
+twine = "*"
+
+[requires]
+python_version = "3.6"
